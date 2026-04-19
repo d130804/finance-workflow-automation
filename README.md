@@ -89,6 +89,12 @@ Possible extensions include:
 
 ---
 
+## 📚 Additional Documentation
+- Decision Criteria: docs/decision-criteria.md
+- Example Architecture: docs/technical-architecture.md
+
+---
+
 ## 👤 Author
 Diana Schumakow
 
