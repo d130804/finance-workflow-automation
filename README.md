@@ -1,4 +1,7 @@
 # 💼 Finance Automation Decision Framework
+This project demonstrates how automation decisions in finance can be made
+systematically by balancing rule-based logic, AI capabilities, and risk.
+
 ## Rule-Based vs. AI-Driven Approval Processes 🤖⚙️
 
 ## 📌 Overview
